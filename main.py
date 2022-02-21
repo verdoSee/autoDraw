@@ -7,7 +7,7 @@ pya.PAUSE = 0
 pya.MINIMUM_SLEEP = 0 
 pya.MINIMUM_DURATION = 0
 
-im = Image.open("si.jpg")
+im = Image.open("spider.jpg")
 rgb_im = im.convert("RGB")
 
 def transform(b):
