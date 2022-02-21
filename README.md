@@ -32,3 +32,5 @@
 |
 <br />
 height of image
+
+**Attention!! If the drawing doesn't look right, you are probably using it in a slow canvas**
